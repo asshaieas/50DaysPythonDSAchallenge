@@ -1,0 +1,28 @@
+🚀 Completed Day 1 of 50DaysPythonDSA Challenge! 🚀
+
+Today, I dove into Arrays and made significant progress in mastering key concepts and solving interesting problems. 📚💻
+
+✅ What I learned:
+Big O Analysis: Gained a solid understanding of how to analyze the time and space complexity of algorithms — an essential skill for optimizing solutions. ⚡🔍
+
+Array Data Structure: Explored the core array operations, including accessing, modifying, and searching for elements. 📊
+
+Problem Solving:
+
+Sorted Squared Array: Solved the problem of squaring each element of an array and sorting the results in ascending order. (Check out my solution below!) 💡
+
+Monotonic Array: Wrote a function to determine if an array is monotonic — whether it is continuously increasing or decreasing. 🔄
+
+🔥 Key Problems Solved:
+Sorted Squared Array:
+Input: [-4, -1, 0, 3, 10]
+Output: [0, 1, 9, 16, 100]
+
+Monotonic Array:
+Input: [1, 2, 2, 3]
+Output: True (Monotonic Increasing)
+
+💡 Goals for Day 1: Successfully tackled the array-based problems and improved my understanding of Big O notation. 🔥
+
+🧠 Next Steps:
+I will continue strengthening my problem-solving skills by exploring more algorithms and improving my approach to complex challenges. Stay tuned for Day 2! 🌟
